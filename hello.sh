@@ -1,2 +1,3 @@
 #!bin/bash
-echo "Hello"
+echo "Hello from c-dac itim-devops"
+echom "from developer 1"
