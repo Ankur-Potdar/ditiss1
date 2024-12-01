@@ -1,2 +1,2 @@
-#!bin/bash
-echo "Hello"
+#!/bin/bash
+echo "Hello jenkins from Github!"
